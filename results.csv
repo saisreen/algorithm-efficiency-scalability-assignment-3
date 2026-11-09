@@ -1,0 +1,17 @@
+distribution,n,randomized_ms,first_pivot_ms
+random,200,0.2351,0.1689
+random,500,0.6823,0.5629
+random,1000,1.519,1.3565
+random,2000,3.6725,3.1078
+sorted,200,0.2403,0.3444
+sorted,500,0.7097,1.6177
+sorted,1000,1.5616,4.3935
+sorted,2000,3.5741,11.7698
+reverse,200,0.1844,1.4835
+reverse,500,0.6808,10.5213
+reverse,1000,1.6691,46.9846
+reverse,2000,3.7505,212.56
+repeated,200,0.0447,0.0489
+repeated,500,0.1058,0.116
+repeated,1000,0.2778,0.2344
+repeated,2000,0.4644,0.4928
